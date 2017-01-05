@@ -1,4 +1,15 @@
 Is pluto a planet?
+<<<<<<< HEAD
+
+
+KABOOM
+
+### FATAL ERROR ###
+# MULTIPLE%EDITS%IN%REPO%ACESSED:??!??!>!?
+?!?!?!?!/1.1/.1./1/>/1>!?!>!?!?!L!<!?<,>!?
+ejfssiNJEFN4&($YuhdfKBFbhcjd*839yUhdud8cFl
+=======
 Save Pluto - give it back its status!!!
 I heart Git
 
+>>>>>>> 82fd16365ebebe249d0c4d964392eb48c7021c9d
